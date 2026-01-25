@@ -118,41 +118,6 @@ export default function Footer() {
               <span className="mx-2">·</span>
               All rights reserved
             </p>
-
-            {/* Social links */}
-            <ul className="mt-4 inline-flex gap-3 justify-end">
-              {/* GitHub */}
-              <li>
-                <a
-                  href="#"
-                  aria-label="GitHub"
-                  className="text-indigo-500 transition hover:text-indigo-400"
-                >
-                  <svg
-                    className="h-7 w-7 fill-current"
-                    viewBox="0 0 32 32"
-                  >
-                    <path d="M16 8.2c-4.4 0-8 3.6-8 8 0 3.5 2.3 6.5 5.5 7.6.4.1.5-.2.5-.4V22c-2.2.5-2.7-1-2.7-1-.4-.9-.9-1.2-.9-1.2-.7-.5.1-.5.1-.5.8.1 1.2.8 1.2.8.7 1.3 1.9.9 2.3.7.1-.5.3-.9.5-1.1-1.8-.2-3.6-.9-3.6-4 0-.9.3-1.6.8-2.1-.1-.2-.4-1 .1-2.1 0 0 .7-.2 2.2.8.6-.2 1.3-.3 2-.3s1.4.1 2 .3c1.5-1 2.2-.8 2.2-.8.4 1.1.2 1.9.1 2.1.5.6.8 1.3.8 2.1 0 3.1-1.9 3.7-3.7 3.9.3.4.6.9.6 1.6v2.2c0 .2.1.5.6.4 3.2-1.1 5.5-4.1 5.5-7.6 0-4.4-3.6-8-8-8z" />
-                  </svg>
-                </a>
-              </li>
-
-              {/* LinkedIn */}
-              <li>
-                <a
-                  href="#"
-                  aria-label="LinkedIn"
-                  className="text-indigo-500 transition hover:text-indigo-400"
-                >
-                  <svg
-                    className="h-7 w-7 fill-current"
-                    viewBox="0 0 32 32"
-                  >
-                    <path d="M8.268 27H3.848V11.8h4.42V27ZM6.058 9.8C4.64 9.8 3.5 8.63 3.5 7.22 3.5 5.81 4.64 4.64 6.058 4.64c1.417 0 2.558 1.17 2.558 2.58 0 1.41-1.141 2.58-2.558 2.58ZM28.5 27h-4.42v-7.36c0-1.76-.03-4.02-2.45-4.02-2.45 0-2.82 1.91-2.82 3.89V27h-4.42V11.8h4.24v2.08h.06c.59-1.11 2.03-2.28 4.18-2.28 4.47 0 5.3 2.95 5.3 6.78V27Z" />
-                  </svg>
-                </a>
-              </li>
-            </ul>
           </div>
         </div>
       </div>
