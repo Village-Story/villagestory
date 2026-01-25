@@ -1,6 +1,6 @@
 export const metadata = {
-  title: "Home - Open PRO",
-  description: "Page description",
+  title: "Village Story ERP & POS Solutions",
+  description: "POS and ERP solutions for Indian Businesses",
 };
 
 import PageIllustration from "@/components/page-illustration";
@@ -15,7 +15,7 @@ export default function Home() {
     <>
       <PageIllustration />
       <Hero />
-      <Workflows />
+    <Workflows />
       <Features />
       <Testimonials />
       <Cta />
