@@ -1,5 +1,5 @@
 /** @type {import('next').NextConfig} */
-const repoName = "your-repo-name";
+const repoName = "villagestory";
 
 const nextConfig = {
   output: "export",
