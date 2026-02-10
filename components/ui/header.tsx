@@ -17,9 +17,9 @@ export default function Header() {
             <Link href="#features" className="text-gray-300 hover:text-white">
               Features
             </Link>
-            <Link href="#pricing" className="text-gray-300 hover:text-white">
+            {/* <Link href="#pricing" className="text-gray-300 hover:text-white">
               Pricing
-            </Link>
+            </Link> */}
 
             {/* Primary CTA */}
             <Link

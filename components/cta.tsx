@@ -31,7 +31,7 @@ export default function Cta() {
           <div className="mx-auto max-w-xs sm:flex sm:max-w-none sm:justify-center">
 
   {/* Primary CTA */}
-  <div data-aos="fade-up" data-aos-delay={400}>
+  {/* <div data-aos="fade-up" data-aos-delay={400}>
     <a
       href="/demo"
       className="btn group mb-4 w-full bg-linear-to-t from-indigo-600 to-indigo-500
@@ -45,10 +45,10 @@ export default function Cta() {
         </span>
       </span>
     </a>
-  </div>
+  </div> */}
 
   {/* Secondary CTA */}
-  <div data-aos="fade-up" data-aos-delay={600}>
+  {/* <div data-aos="fade-up" data-aos-delay={600}>
     <a
       href="/features"
       className="btn relative w-full bg-linear-to-b from-gray-800 to-gray-800/60
@@ -61,7 +61,7 @@ export default function Cta() {
     >
       <span className="relative z-10">View System Flow</span>
     </a>
-  </div>
+  </div> */}
 
 </div>
 
